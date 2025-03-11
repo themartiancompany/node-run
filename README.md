@@ -40,7 +40,7 @@ the rules of the world they live in,
 they are all redundantly packed together
 into every proprietary and non JavaScript
 program we are forced to use, so that most of them
-have still not properly packaged and distributed
+have still not been properly packaged and distributed
 by those developers' groups who once liked to
 make people believe they were working to provide
 the public with useful software to make their
