@@ -53,7 +53,7 @@ transformation in how we do concretely work and
 organize the societies we live in.
 
 As a consequence of that, this node.js software
-you're here because you need to use still lacks
+you're here because you need to use, still lacks
 code to properly access shared libraries installed
 as system packages.
 
