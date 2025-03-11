@@ -50,6 +50,9 @@ _requirements() {
   _check_cmd \
     "node" \
     "nodejs"
+  _check_cmd \
+    "npm" \
+    "npm"
 }
 
 _node_run() {
