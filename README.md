@@ -60,7 +60,7 @@ as system packages.
 So, in short, this `node-run` program you find in this source
 repository is nothing more than a bash launcher
 for Node which force it to load the shared JavaScript
-libraries present onto your system-wide node
+libraries present onto your system-wide
 install when running a JavaScript program
 and lets you set a maximum sets of
 restarts in case Node was to crash.
