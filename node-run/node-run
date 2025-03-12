@@ -86,10 +86,13 @@ _node_run() {
       "${_program}" \
       "${_program_args[@]}"
     if [ $? -eq 0 ]; then
-      _msg_info \
+      _msg=(
         "Node exited gracefully."
         "Or crashed, it's not like"
         "it really tells you."
+      )
+      _msg_info \
+        "${_msg[*]}"
       return \
         0
     else
